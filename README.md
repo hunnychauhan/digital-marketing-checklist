@@ -1,6 +1,6 @@
-# digital-marketing-checklist
-Free SEO &amp; Digital Marketing resources for small businesses (checklists, guides, and tips).
+
 # Digital Marketing Checklist ✅
+Free SEO &amp; Digital Marketing resources for small businesses (checklists, guides, and tips).
 
 Welcome to my **Digital Marketing Resources** repo.  
 Here you’ll find free checklists, SEO tips, and quick guides to help businesses grow online.
