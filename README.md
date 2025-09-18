@@ -15,7 +15,7 @@ I’ve created a simple checklist that covers:
 - Content marketing ideas
 - Local SEO quick wins
 
-👉 Download it here: [Free Digital Marketing Checklist](https://www.makmentorsacademy.com//digital-marketing-checklist?utm_source=github_repo&utm_medium=backlink&utm_campaign=seo)
+👉 Download it here: [Free Digital Marketing Checklist](https://www.makmentorsacademy.com)
 
 ---
 
